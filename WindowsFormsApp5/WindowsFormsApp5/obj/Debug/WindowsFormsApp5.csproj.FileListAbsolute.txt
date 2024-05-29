@@ -1,0 +1,28 @@
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Administrator.resources
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Registration.resources
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Status.resources
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.User.resources
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\ivolg\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Administrator.resources
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Registration.resources
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Status.resources
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.User.resources
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+H:\УП Основа проги\УП Миронов\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
